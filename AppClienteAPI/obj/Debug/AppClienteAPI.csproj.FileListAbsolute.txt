@@ -1,0 +1,14 @@
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\bin\Debug\AppClienteAPI.exe.config
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\bin\Debug\AppClienteAPI.exe
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\bin\Debug\AppClienteAPI.pdb
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\obj\Debug\AppClienteAPI.csproj.AssemblyReference.cache
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\obj\Debug\AppClienteAPI.Form1.resources
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\obj\Debug\AppClienteAPI.Properties.Resources.resources
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\obj\Debug\AppClienteAPI.csproj.GenerateResource.cache
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\obj\Debug\AppClienteAPI.csproj.CoreCompileInputs.cache
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\obj\Debug\AppClienteAPI.exe
+C:\Users\harol\Escritorio\inicios en C#\AppClienteAPI\AppClienteAPI\obj\Debug\AppClienteAPI.pdb
